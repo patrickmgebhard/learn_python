@@ -18,3 +18,14 @@ print(d)
 # check out dot product
 f = np.dot([[1, 3], [2, 4]], [2, 4])
 print(f)
+
+g = np.random.randint(100)
+print(g)
+
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+sns.distplot([0, 1, 2, 3, 4, 5])
+
+plt.show
