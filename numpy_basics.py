@@ -24,8 +24,12 @@ print(g)
 
 
 import matplotlib.pyplot as plt
-import seaborn as sns
+"""import seaborn as sns
 
 sns.distplot([0, 1, 2, 3, 4, 5])
 
 plt.show
+"""
+
+# printing the given numpy version
+print(np.__version__)
