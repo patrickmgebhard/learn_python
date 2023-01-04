@@ -13,6 +13,10 @@
 # Function and variable names should be lowercase with words separated by underscores
 # Examples: sort_names
 
+# Method and instance variable names should be lowercase with words separated by underscores
+# leading underscore for non-public methods and instance variables
+# Examples: add_number
+
 # Constants should be all capital letters with underscores separating words
 # MAX_OVERFLOW, TOTAL
 
