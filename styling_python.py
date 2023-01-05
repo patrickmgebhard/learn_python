@@ -20,3 +20,4 @@
 # Constants should be all capital letters with underscores separating words
 # MAX_OVERFLOW, TOTAL
 
+# String quotes should be consistently single- or double-quoted
