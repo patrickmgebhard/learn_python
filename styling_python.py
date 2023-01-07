@@ -3,6 +3,9 @@
 -use https://pycodestyle.pycqa.org/en/latest/ to check if you follow the rules
 """
 
+# Indentation should be done using 4 spaces per indentation level
+# this is automatically set in VS Code
+
 # Naming conventions
 # Package and module names should be short, all-lowercase
 # Examples: pandas, numpy, matplotlib, math
@@ -21,3 +24,4 @@
 # MAX_OVERFLOW, TOTAL
 
 # String quotes should be consistently single- or double-quoted
+
